@@ -1,6 +1,6 @@
 # Claude AI — Function Calling (Tool Use) in Python
 
-A clean, multi-tool demonstration of Claude's **tool use (function calling)** capability using the Anthropic Python SDK.
+A clean & multi-tool demonstration of Claude's **tool use (function calling)** capability using the Anthropic Python SDK.
 
 ---
 
