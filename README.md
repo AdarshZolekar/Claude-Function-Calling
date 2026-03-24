@@ -59,7 +59,7 @@ No changes needed in `main.py`.
 ├── main.py           # Conversation loop with tool-use handling
 ├── tools.py          # Tool schemas + implementations + dispatcher
 ├── requirements.txt
-└── .env              # Your ANTHROPIC_API_KEY (not committed)
+└── example.env       # Your ANTHROPIC_API_KEY (not committed)
 ```
 
 ---
