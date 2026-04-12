@@ -29,8 +29,8 @@ Supports multiple tool calls in a single turn.
 ## Setup
 ```bash
 # 1. Clone the repo
-git clone https://github.com/AdarshZolekar/claude-ai-function-calling-python
-cd claude-ai-function-calling-python
+git clone https://github.com/AdarshZolekar/Claude-Function-Calling
+cd Claude-Function-Calling
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 echo "ANTHROPIC_API_KEY=your_key_here" > .env
 
 # 4. Run the demo
-python main.py
+python Main.py
 ```
 
 ---
